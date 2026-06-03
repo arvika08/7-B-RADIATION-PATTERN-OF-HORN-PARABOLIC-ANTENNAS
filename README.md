@@ -56,33 +56,44 @@ In our above example suppose operating frequency is 9GHZ λ0=3.33CM.where c is v
 
 **BLOCK DIAGRAM:**
 
-<img width="638" height="177" alt="image" src="https://github.com/user-attachments/assets/0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0e3f554a-c54b-42a4-bc48-1c3b3dd5f5fc" width="500">
+</p>
+
+**Key Formula:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cc605ffc-1bc8-47fb-91fa-55db8d287d32" width="450">
+</p>
 
 **TABULATION:** 
 
-**HORN ANTENNA** 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7a0b136e-b19f-43e5-8b27-52d7a0d5b74c" width="650">
+</p>
 
-Beam voltage	:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb1159df-aa06-455a-83b2-5033bb52ce30" width="650">
+</p>
 
-Beam current	 :
+**Observation Table:**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/440d2aff-e39b-42cb-8170-4b8f99000815" width="280">
+  <img src="https://github.com/user-attachments/assets/73be135d-731d-43e3-8a0f-7913da405471" width="280">
+</p>
 
-**PARABOLICANTENNA**
 
-Beam voltage	:
-
-Beam current	 :
-
-Repeller voltage :
-
-	V1 : 
 
 **RESULT:**
 
 Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna :
+Beamwidth of horn antenna : 32 degree
 
-Beamwidth of parabolic antenna:		
+Beamwidth of parabolic antenna: 12 degree
+
+Gain (dB) of horn antenna : 15
+
+Gain (dB) of parabolic antenna: 22
 
 
 
